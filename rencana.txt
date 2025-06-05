@@ -1,0 +1,3 @@
+git add .
+git commit -m "Edit isi index.html dari VS Code"
+git push
